@@ -19,7 +19,7 @@
 
 </div>
 
-## 🖥️ about-me
+## about-me
 
 ```
 Name        : Praveen Prabashwara
@@ -30,7 +30,7 @@ Goal        : Build hands-on skills through labs, CTFs and practical projects
 Looking for : Study partners, mentors, and beginner-friendly security projects
 ```
 
-## 🎯 Current Focus
+## Current Focus
 
 | 🔭 Working on | 🌱 Learning | 🤝 Looking for |
 |---|---|---|
@@ -38,7 +38,7 @@ Looking for : Study partners, mentors, and beginner-friendly security projects
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Looking for : Study partners, mentors, and beginner-friendly security projects
 
 </div>
 
-## 🗺️ Learning Roadmap
+## Learning Roadmap
 
 - [x] Started IT degree, Cyber Security specialization at SLIIT
 - [x] Networking fundamentals (TCP/IP, DNS, HTTP, firewalls)
@@ -65,7 +65,7 @@ Looking for : Study partners, mentors, and beginner-friendly security projects
 - [ ] Build a home lab (Kali + intentionally vulnerable VMs)
 - [ ] Entry-level certification (e.g. Security+ or similar)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -73,12 +73,12 @@ Looking for : Study partners, mentors, and beginner-friendly security projects
 
 </div>
 
-## 🔐 Ethics
+## Ethics
 
 I practice security **only on my own lab systems, intentionally vulnerable machines, and platforms where I have permission.** Everything I publish is for learning and defence.
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
