@@ -1,8 +1,3 @@
-<!-- ============================================================
-  Replace every <...> placeholder or delete that line.
-  Check your GitHub username below (currently: prabashwar-a).
-============================================================ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00c853,100:0f2027&height=220&section=header&text=Praveen%20Prabashwara&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=IT%20Undergraduate%20%7C%20Cybersecurity%20Specialization&descSize=18&descAlignY=58" alt="header" />
@@ -65,36 +60,18 @@ Looking for : Study partners, mentors, and beginner-friendly security projects
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
 
 </div>
-
-<!-- Keep each badge only if you have really used that tool. -->
-
 ---
 
 ## 🗺️ Learning Roadmap
 
 - [x] Started IT degree, Cyber Security specialization at SLIIT
-- [ ] Networking fundamentals (TCP/IP, DNS, HTTP, firewalls)
+- [x] Networking fundamentals (TCP/IP, DNS, HTTP, firewalls)
 - [ ] Linux command line & permissions
 - [ ] Python scripting for security tasks
 - [ ] Web security basics (OWASP Top 10)
 - [ ] Complete beginner CTF / practice rooms and publish write-ups
 - [ ] Build a home lab (Kali + intentionally vulnerable VMs)
 - [ ] Entry-level certification (e.g. Security+ or similar)
-
-<!-- Tick the boxes as you finish them: change [ ] to [x]. -->
-
----
-
-## 📌 Featured Projects
-
-<!-- Replace with your real repos once they exist. Pin them on your profile too. -->
-
-| Project | What it is |
-|---|---|
-| [`<repo-name>`](<repo-link>) | <one line: what it does, what you learned> |
-| [`ctf-writeups`](<repo-link>) | Write-ups of practice rooms and beginner CTFs |
-| [`linux-networking-notes`](<repo-link>) | My study notes on Linux and networking |
-
 ---
 
 ## 📊 GitHub Stats
@@ -107,9 +84,6 @@ Looking for : Study partners, mentors, and beginner-friendly security projects
 <img src="https://streak-stats.demolab.com?user=prabashwar-a&theme=radical&hide_border=true" alt="streak" />
 
 </div>
-
-<!-- These cards look empty on a new account. Keep them once you have some activity. -->
-
 ---
 
 ## 🔐 Ethics
