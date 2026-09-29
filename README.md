@@ -1,16 +1,135 @@
-## Hi there 👋
+<!-- ============================================================
+  Replace every <...> placeholder or delete that line.
+  Check your GitHub username below (currently: prabashwar-a).
+============================================================ -->
 
-<!--
-**Prabashwar-a/Prabashwar-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00c853,100:0f2027&height=220&section=header&text=Praveen%20Prabashwara&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=IT%20Undergraduate%20%7C%20Cybersecurity%20Specialization&descSize=18&descAlignY=58" alt="header" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=%3E+whoami+%E2%86%92+Praveen+Prabashwara;%3E+studying+%40+SLIIT+%E2%80%93+Cybersecurity;%3E+learning+Linux+%7C+Networking+%7C+Python;%3E+building+labs%2C+breaking+things+(legally)+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-00c853?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/University-SLIIT-1f6feb?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=prabashwar-a&label=Profile+Views&color=00c853&style=flat-square" alt="views" />
+
+</div>
+
+---
+
+## 🖥️ about-me
+
+```
+Name        : Praveen Prabashwara
+Degree      : BSc (Hons) in Information Technology - Cyber Security, SLIIT
+Interests   : Network security, Linux, ethical hacking, defensive security
+Learning    : Networking fundamentals, Linux, Python scripting, Git/GitHub
+Goal        : Build hands-on skills through labs, CTFs and practical projects
+Looking for : Study partners, mentors, and beginner-friendly security projects
+```
+
+---
+
+## 🎯 Current Focus
+
+| 🔭 Working on | 🌱 Learning | 🤝 Looking for |
+|---|---|---|
+| Cybersecurity labs & beginner security projects | Networking, Linux, Python, Git/GitHub | Help building practical projects |
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,c,java,git,github,docker,mysql&theme=dark" alt="skills" />
+
+</div>
+
+<!-- Add only tools you can actually discuss. Other icon ids: kali, wireshark is not
+     available on skillicons, so use a shields badge for it (see below). -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+
+</div>
+
+<!-- Keep each badge only if you have really used that tool. -->
+
+---
+
+## 🗺️ Learning Roadmap
+
+- [x] Started IT degree, Cyber Security specialization at SLIIT
+- [ ] Networking fundamentals (TCP/IP, DNS, HTTP, firewalls)
+- [ ] Linux command line & permissions
+- [ ] Python scripting for security tasks
+- [ ] Web security basics (OWASP Top 10)
+- [ ] Complete beginner CTF / practice rooms and publish write-ups
+- [ ] Build a home lab (Kali + intentionally vulnerable VMs)
+- [ ] Entry-level certification (e.g. Security+ or similar)
+
+<!-- Tick the boxes as you finish them: change [ ] to [x]. -->
+
+---
+
+## 📌 Featured Projects
+
+<!-- Replace with your real repos once they exist. Pin them on your profile too. -->
+
+| Project | What it is |
+|---|---|
+| [`<repo-name>`](<repo-link>) | <one line: what it does, what you learned> |
+| [`ctf-writeups`](<repo-link>) | Write-ups of practice rooms and beginner CTFs |
+| [`linux-networking-notes`](<repo-link>) | My study notes on Linux and networking |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prabashwar-a&show_icons=true&theme=radical&hide_border=true&count_private=false" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabashwar-a&layout=compact&theme=radical&hide_border=true" alt="top langs" />
+
+<img src="https://streak-stats.demolab.com?user=prabashwar-a&theme=radical&hide_border=true" alt="streak" />
+
+</div>
+
+<!-- These cards look empty on a new account. Keep them once you have some activity. -->
+
+---
+
+## 🔐 Ethics
+
+I practice security **only on my own lab systems, intentionally vulnerable machines, and platforms where I have permission.** Everything I publish is for learning and defence.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/praveen-prabashwara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- <a href="<tryhackme-profile-link>"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a> -->
+<!-- <a href="<blog-link>"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" /></a> -->
+
+<br/><br/>
+
+⭐ *"Security is not a product, but a process."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00c853,100:0f2027&height=120&section=footer" alt="footer" />
+
+</div>
