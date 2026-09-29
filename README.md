@@ -19,8 +19,6 @@
 
 </div>
 
----
-
 ## 🖥️ about-me
 
 ```
@@ -31,8 +29,6 @@ Learning    : Networking fundamentals, Linux, Python scripting, Git/GitHub
 Goal        : Build hands-on skills through labs, CTFs and practical projects
 Looking for : Study partners, mentors, and beginner-friendly security projects
 ```
-
----
 
 ## 🎯 Current Focus
 
@@ -50,9 +46,6 @@ Looking for : Study partners, mentors, and beginner-friendly security projects
 
 </div>
 
-<!-- Add only tools you can actually discuss. Other icon ids: kali, wireshark is not
-     available on skillicons, so use a shields badge for it (see below). -->
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -60,7 +53,6 @@ Looking for : Study partners, mentors, and beginner-friendly security projects
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
 
 </div>
----
 
 ## 🗺️ Learning Roadmap
 
@@ -72,33 +64,25 @@ Looking for : Study partners, mentors, and beginner-friendly security projects
 - [ ] Complete beginner CTF / practice rooms and publish write-ups
 - [ ] Build a home lab (Kali + intentionally vulnerable VMs)
 - [ ] Entry-level certification (e.g. Security+ or similar)
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prabashwar-a&show_icons=true&theme=radical&hide_border=true&count_private=false" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabashwar-a&layout=compact&theme=radical&hide_border=true" alt="top langs" />
-
 <img src="https://streak-stats.demolab.com?user=prabashwar-a&theme=radical&hide_border=true" alt="streak" />
 
 </div>
----
 
 ## 🔐 Ethics
 
 I practice security **only on my own lab systems, intentionally vulnerable machines, and platforms where I have permission.** Everything I publish is for learning and defence.
 
----
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/praveen-prabashwara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!-- <a href="<tryhackme-profile-link>"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a> -->
-<!-- <a href="<blog-link>"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" /></a> -->
 
 <br/><br/>
 
